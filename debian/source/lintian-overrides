@@ -1,0 +1,5 @@
+python-pyperclip source: file-without-copyright-information
+python-pyperclip source: no-debian-changes
+python-pyperclip source: source-contains-prebuilt-windows-binary
+python-pyperclip source: source-is-missing
+python-pyperclip source: source-package-encodes-python-version

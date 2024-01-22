@@ -1,0 +1,4 @@
+python3-pyperclip: copyright-without-copyright-notice
+python3-pyperclip: initial-upload-closes-no-bugs
+python3-pyperclip: no-manual-page
+python3-pyperclip: zero-byte-file-in-doc-directory
