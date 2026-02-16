@@ -1,0 +1,5 @@
+python-pyperclip (100:1.11.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/asweigart/pyperclip/commit/f5326bfd7c5448b40051dd261a7304657977b838
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sat, 27 Sep 2025 16:17:21 +0800
